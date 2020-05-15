@@ -7,6 +7,6 @@ import org.springframework.stereotype.Component;
 public class ScheduledTasks {
 	@Scheduled(fixedRate = 5000)
 	public void dataInit() {
-		System.out.println("dingxuan111");
+		System.out.println("dingxuan111222");
 	}
 }
